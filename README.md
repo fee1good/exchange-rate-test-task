@@ -22,3 +22,5 @@ make make run
 ## TODO:
 - Support WS
 - Fix comments
+
+Special thanks to Vadim!
